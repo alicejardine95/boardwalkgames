@@ -43,6 +43,7 @@
 
 body {
     font-family: var(--primary-font);
+    padding-top: 57.15px; /*pushes content down due to fixed navbar*/
 }
 
 h1, h2, h3 {
