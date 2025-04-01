@@ -58,6 +58,10 @@ h1, h2 {
 h2 {
     margin-bottom: 2rem;
 }
+
+.section {
+    padding-top: 4rem; /*prevents navbar overlap*/
+}
 .sub-heading-color {
     color: var(--highlight-color);
 }
